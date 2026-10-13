@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.ipynb_checkpoints/ # For Jupyter/Colab notebooks
+.vscode/            # VS Code workspace settings if you don't want to share
+
+# Environment
+.env
+# Pipenv
+.venv/
+# virtualenv
+venv/
+env/
+
+# The generated output report ships with the submission
+# (data/output_report.xlsx is the run result)

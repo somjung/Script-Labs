@@ -1,0 +1,259 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.15
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F19551539c-61eb-4c0e-931a-8783e743a2f4 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageI /PDF /Text /ImageC ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2508
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 55 776.8898 Tm
+(PROJECT\040DOCUMENTATION\040\055\040PART\040A) Tj
+T*
+ET
+BT
+1 0 0 1 55 762.3898 Tm
+(\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075\075) Tj
+T*
+ET
+BT
+1 0 0 1 55 747.8898 Tm
+(\040) Tj
+T*
+ET
+BT
+1 0 0 1 55 733.3898 Tm
+(Project\040Name\072\040Agentic\040Document\040Automation\040System) Tj
+T*
+ET
+BT
+1 0 0 1 55 718.8898 Tm
+(Document\040ID\072\040PROJ\055DOC\055001) Tj
+T*
+ET
+BT
+1 0 0 1 55 704.3898 Tm
+(Version\072\0401\0560) Tj
+T*
+ET
+BT
+1 0 0 1 55 689.8898 Tm
+(Author\072\040Technical\040Documentation\040Team) Tj
+T*
+ET
+BT
+1 0 0 1 55 675.3898 Tm
+T*
+ET
+BT
+1 0 0 1 55 660.8898 Tm
+(CHAPTER\0401\072\040INTRODUCTION) Tj
+T*
+ET
+BT
+1 0 0 1 55 646.3898 Tm
+T*
+ET
+BT
+1 0 0 1 55 631.8898 Tm
+(The\040Agentic\040Document\040Automation\040System\040represents\040a\040paradigm\040shift\040in\040how) Tj
+T*
+ET
+BT
+1 0 0 1 55 617.3898 Tm
+(organizations\040handle\040document\040workflows\056\040By\040leveraging\040configuration\055driven) Tj
+T*
+ET
+BT
+1 0 0 1 55 602.8898 Tm
+(architecture\054\040the\040system\040enables\040non\055technical\040users\040to\040define\040complex) Tj
+T*
+ET
+BT
+1 0 0 1 55 588.3898 Tm
+(document\040processing\040pipelines\040through\040simple\040JSON\040configurations\056) Tj
+T*
+ET
+BT
+1 0 0 1 55 573.8898 Tm
+T*
+ET
+BT
+1 0 0 1 55 559.3898 Tm
+(Key\040Features\072) Tj
+T*
+ET
+BT
+1 0 0 1 55 544.8898 Tm
+<7f2054656d706c6174652d626173656420646f63756d656e742067656e65726174696f6e> Tj
+T*
+ET
+BT
+1 0 0 1 55 530.3898 Tm
+<7f2044796e616d696320636f6e74656e7420696e73657274696f6e> Tj
+T*
+ET
+BT
+1 0 0 1 55 515.8898 Tm
+<7f20416476616e63656420504446206d616e6970756c6174696f6e> Tj
+T*
+ET
+BT
+1 0 0 1 55 501.3898 Tm
+<7f20436f6d70726568656e73697665206175646974206c6f6767696e67> Tj
+T*
+ET
+BT
+1 0 0 1 55 486.8898 Tm
+T*
+ET
+BT
+1 0 0 1 55 472.3898 Tm
+(This\040document\040serves\040as\040Part\040A\040of\040the\040complete\040project\040documentation\054) Tj
+T*
+ET
+BT
+1 0 0 1 55 457.8898 Tm
+(focusing\040on\040system\040architecture\040and\040design\040principles\056) Tj
+T*
+ET
+BT
+1 0 0 1 55 443.3898 Tm
+T*
+ET
+BT
+1 0 0 1 55 428.8898 Tm
+(\055\055\055\040END\040OF\040PART\040A\040\055\055\055) Tj
+T*
+ET
+Q
+q
+0 0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F19551539c-61eb-4c0e-931a-8783e743a2f4 12 Tf
+14.4 TL
+ET
+1 0 0 rg
+/gRLs0 gs
+BT
+/F2 70 Tf
+84 TL
+ET
+0.573576 0.819152 -0.819152 0.573576 297.6378 420.9449 cm
+BT
+1 0 0 1 -260.54 -17.5 Tm
+(CONFIDENTIAL) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000074 00000 n 
+0000000114 00000 n 
+0000000163 00000 n 
+0000000565 00000 n 
+0000003125 00000 n 
+0000003232 00000 n 
+0000003339 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+3451
+%%EOF
